@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    display: grid;
+  }
+  
+  body {
+    margin: auto;
+    background-color: green;
+    font-family: Georgia;
+  }
+  
+  
+  #display {
+    margin-left: 0px;
+    float: right;
+  }
+  
+  #container {
+      align-items: center;
+      text-align: center;
+
+  }
